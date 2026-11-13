@@ -8,6 +8,16 @@ achievements. All art and sound are generated at runtime (no external asset pack
 
 > Package id: `com.parkingrush.vmullapudiapps` · Engine: **Unity 6000.4.11f1**
 
+## Gameplay
+
+Each terrain has its own vehicle and handling model, shown in the level-intro stats card, with a
+live on-screen arrow + distance guiding you to the parking spot.
+
+| Road | Water | Space |
+|:----:|:-----:|:-----:|
+| ![Road gameplay](docs/road.gif) | ![Water gameplay](docs/water.gif) | ![Space gameplay](docs/space.gif) |
+| Car · grip & braking | Boat · drift & coasting | Rocket · inertia & thrusters |
+
 ---
 
 ## Requirements
