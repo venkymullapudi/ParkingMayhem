@@ -139,3 +139,16 @@ APK/AAB artifacts, and all signing secrets.
 - **Device support** — `AndroidManifestPostProcess.cs` marks landscape/portrait/touchscreen/vulkan
   as `required="false"` so the app isn't filtered off most of the Play device catalog.
 - Rendering uses **Linear** color space; runtime-generated textures convert gamma→linear.
+
+---
+
+## License
+
+**PolyForm Noncommercial License 1.0.0** — see [`LICENSE`](LICENSE).
+
+You're welcome to read, run, study, and tinker with this code for noncommercial
+purposes (personal use, learning, hobby projects, education, research). **Any
+commercial use — shipping it, selling it, or building a commercial product from
+it — requires a separate license. Contact [@venkymullapudi](https://github.com/venkymullapudi).**
+
+Required Notice: Copyright Venky Mullapudi (https://github.com/venkymullapudi)
